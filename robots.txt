@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://wahj.app
+Sitemap: https://wahj.app/sitemap.xml
